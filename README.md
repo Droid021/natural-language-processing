@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Droid021/flutter_adventures">
+  <a href="https://github.com/Droid021/natural-language-processing">
     <img src="screenshots/logo.png" alt="Logo" width="80" height="80">
   </a>
 
