@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+nltk_data/
+data/
+*.pth
+*.pt
+*.bin
+*.pkl
+*.json
